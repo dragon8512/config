@@ -1,0 +1,8 @@
+spring: 
+  application: 
+    name: product
+  datasource: 
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud1?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    username: root
+    password: dragon
