@@ -1,15 +1,1 @@
-spring: 
-  application: 
-    name: product
-  datasource: 
-#    type: com.alibaba.druid.pool.DruidDataSource
-    driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/springcloud1?useUnicode=true&characterEncoding=UTF-8&useSSL=false
-    username: root
-    password: dragon
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8761/eureka/
-  instance:
-    prefer-ip-address: true
+# 通用配置在 product.yum 文件下
