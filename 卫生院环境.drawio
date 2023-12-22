@@ -1,11 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T08:00:50.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LUSyOA407JIgMVO1eX_r" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T08:04:07.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="R62aYdw3EsB2vSRvzYSY" version="22.1.11" type="github">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
-    <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wKczsqMu7J6n82WPHIn5-1" value="榆中县城关镇卫生院&lt;span style=&quot;background-color: initial;&quot;&gt;10.79.49.243&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="110" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wKczsqMu7J6n82WPHIn5-2" value="CHIS  其他服务" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="210" width="520" height="116" as="geometry">
+            <mxRectangle x="140" y="200" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wKczsqMu7J6n82WPHIn5-3" value="aaaaaaaaaaaaaaaa" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="wKczsqMu7J6n82WPHIn5-2">
+          <mxGeometry y="26" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKczsqMu7J6n82WPHIn5-4" value="bbbbbbbbbbbbbbbbbbbbb" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="wKczsqMu7J6n82WPHIn5-2">
+          <mxGeometry y="56" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKczsqMu7J6n82WPHIn5-5" value="ccccccccccccccccccccccccc" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="wKczsqMu7J6n82WPHIn5-2">
+          <mxGeometry y="86" width="520" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wKczsqMu7J6n82WPHIn5-19" value="aaa" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="90" width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
