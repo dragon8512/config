@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:40:09.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EPyyMaQEejIDXEcLPwxm" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:47:04.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OTy-jGmFYEVQCa_gbbBD" version="22.1.11" type="github">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
     <mxGraphModel dx="2205" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -292,21 +292,21 @@
           <mxGeometry y="56" width="600" height="74" as="geometry" />
         </mxCell>
         <mxCell id="eS7xaFLYB2sEI9pfLW7X-247" value="服务器 192.168.204.104:80" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="730" y="880" width="600" height="146" as="geometry">
+          <mxGeometry x="730" y="880" width="600" height="170" as="geometry">
             <mxRectangle x="440" y="600" width="560" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-248" value="CHIS" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-248" value="CHIS&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 未知用处" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
           <mxGeometry y="26" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-249" value="authcenter" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-249" value="authcenter&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;lis认证" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
           <mxGeometry y="56" width="600" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-250" value="BISP" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
-          <mxGeometry y="86" width="600" height="30" as="geometry" />
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-250" value="BISP&lt;br&gt;1. 公卫权限配置&lt;br&gt;2 卫生院权限配置&amp;nbsp;&amp;nbsp;登录账号 ：chis&amp;nbsp; &amp;nbsp;chisadmin" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=block;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="86" width="600" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-251" value="python 卫生院权限同步" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
-          <mxGeometry y="116" width="600" height="30" as="geometry" />
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-251" value="python 卫生院权限同步&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;bisp上操作卫生院权限后同步操作结果到卫生院" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="140" width="600" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eS7xaFLYB2sEI9pfLW7X-254" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.444;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eS7xaFLYB2sEI9pfLW7X-180" target="eS7xaFLYB2sEI9pfLW7X-247">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
