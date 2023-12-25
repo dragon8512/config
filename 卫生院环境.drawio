@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:45:07.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gVpM8kU21lgk9TlJ5pGW" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T06:45:52.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UnXvhdyD08Vn7FvouaYN" version="22.1.11" type="github">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
     <mxGraphModel dx="1929" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,13 +120,16 @@
             <mxPoint x="560" y="559" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-72" value="licence认证 http://10.78.63.11:84/authcenter/CXFService/authService?wsdl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="440" y="600" width="640" height="56" as="geometry">
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-72" value="本地服务器数据库 192.168.1.100 EMR" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="440" y="600" width="640" height="86" as="geometry">
             <mxRectangle x="410" y="790" width="560" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-73" value="emr&amp;nbsp;登录界面&amp;nbsp;登录&amp;nbsp;数据库&amp;nbsp;emr_user" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-72">
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-76" value="emr&amp;nbsp;登录界面&amp;nbsp;登录&amp;nbsp;数据库&amp;nbsp;emr_user" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-72">
           <mxGeometry y="26" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-73" value="其他服务需要访问数据库" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-72">
+          <mxGeometry y="56" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eS7xaFLYB2sEI9pfLW7X-74" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eS7xaFLYB2sEI9pfLW7X-50" target="eS7xaFLYB2sEI9pfLW7X-72">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
