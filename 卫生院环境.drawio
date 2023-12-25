@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:13:16.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fdSB0Ak6o6AgvNB38-_L" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:35:12.749Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fUflIC187ukfAsfc9ca0" version="22.1.11" type="github">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
-    <mxGraphModel dx="2831" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2205" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -279,6 +279,34 @@
               <mxPoint x="1810" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-244" value="服务器 192.168.204.58:80" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="40" y="880" width="600" height="130" as="geometry">
+            <mxRectangle x="440" y="600" width="560" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-245" value="authcenter&amp;nbsp; 提供文件下载服务" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-244">
+          <mxGeometry y="26" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-246" value="备注： 58&amp;nbsp;上的服务全部迁移到 104&amp;nbsp;服务器，迁移后发现&amp;nbsp;卫生院配置死了地址映射到58&amp;nbsp;服务器，最终authcenter&amp;nbsp;未迁移，原因如下&lt;br&gt;方案1.&amp;nbsp;卫生院太多，需要每个需要修改配置文件后发包，放弃这个方案。&lt;br&gt;方案2.&amp;nbsp;兰州联系万维&amp;nbsp;修改映射地址到104，反馈后未回复，线上有问题就放弃迁移" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=visible;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-244">
+          <mxGeometry y="56" width="600" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-247" value="服务器 192.168.204.104:80" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="880" width="600" height="146" as="geometry">
+            <mxRectangle x="440" y="600" width="560" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-248" value="CHIS" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="26" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-249" value="authcenter" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="56" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-250" value="BISP" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="86" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-251" value="python 卫生院权限同步" style="text;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-247">
+          <mxGeometry y="116" width="600" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
