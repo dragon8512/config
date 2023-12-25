@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T05:18:13.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rDUbU9bY3eXWc9x5yX9O" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T05:18:52.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rwIUI69WhLiny4TldzcN" version="22.1.11" type="github">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
     <mxGraphModel dx="2169" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
             <mxRectangle x="410" y="790" width="560" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eS7xaFLYB2sEI9pfLW7X-52" value="emr&amp;nbsp;登录界面&amp;nbsp;登录需要访问&amp;nbsp;emr_user" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-51">
+        <mxCell id="eS7xaFLYB2sEI9pfLW7X-52" value="emr&amp;nbsp;登录界面&amp;nbsp;登录需要访问认证" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-51">
           <mxGeometry y="26" width="640" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eS7xaFLYB2sEI9pfLW7X-53" value="http://10.78.63.14:80/ActiveX_InstallDocument.zip （下载控件安装手册）" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=1;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;movable=1;resizable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="eS7xaFLYB2sEI9pfLW7X-51">
