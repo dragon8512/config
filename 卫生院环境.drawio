@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:36:28.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oxcP5ifzZ250vhfsWaC9" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:44:01.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IbBdaUa0qCoGcCDWEVTo" version="22.1.11" type="github" pages="2">
   <diagram name="第 1 页" id="0BkjYjIJnNKJRxKwbIkA">
     <mxGraphModel dx="3582" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,6 +383,12 @@
           <mxGeometry x="-0.1002" y="3" relative="1" as="geometry">
             <mxPoint x="-242" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QF-nUwXBUDNB7b3EM3mb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;endArrow=block;endFill=0;" edge="1" parent="1" source="QF-nUwXBUDNB7b3EM3mb-1" target="eS7xaFLYB2sEI9pfLW7X-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QF-nUwXBUDNB7b3EM3mb-1" value="数据库&lt;br&gt;卫生院本地安装的oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="-735" y="1310" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
